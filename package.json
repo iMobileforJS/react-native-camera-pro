@@ -1,7 +1,7 @@
 {
   "name": "react-native-camera-pro",
   "description": "A Camera component for React Native. Also reads barcodes.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "imoble",
   "dependencies": {
     "prop-types": "^15.6.2"
